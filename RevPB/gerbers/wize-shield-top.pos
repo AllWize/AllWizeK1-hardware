@@ -1,0 +1,31 @@
+### Module positions - created on Fri Jul  6 10:04:30 2018 ###
+### Printed by Pcbnew version kicad 4.0.7-e2-6376~58~ubuntu16.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                  Package                                   PosX       PosY       Rot  Side
+D1        LED-DIODE            LED_0603                               37.4100    44.3700   90.0000  top
+D2        LED-DIODE            LED_0603                               39.1000    44.3800   90.0000  top
+FD1       FIDUCIAL             FIDUCIAL-08                             1.4000     1.1900    0.0000  top
+FD2       FIDUCIAL             FIDUCIAL-08                            63.4400    42.9900    0.0000  top
+G1        LOGO                 allwize-logo-2                         35.3000    32.5400    0.0000  top
+G2        LABEL                LABEL_15x7mm                           28.0900    41.7600    0.0000  top
+G3        OSH                  osh                                    10.4300    49.2400    0.0000  top
+G4        PB_FREE              Pb-free                                 8.5600     2.7900    0.0000  top
+J3        Conn_02x05_Odd_Even  PinHeader_2x05_P1.27mm_Vertical_SMD    23.9600     9.8000  270.0000  top
+J4        Conn_Coaxial_uFL     uFL-CONN                               57.5200    15.6100  180.0000  top
+J7        Conn_01x04           GROVE-TH-1x04-P2.00mm_Horizontal        8.9200    12.3000  270.0000  top
+J8        Conn_01x04           GROVE-TH-1x04-P2.00mm_Horizontal        8.9200    25.5200  270.0000  top
+J9        Conn_01x04           GROVE-TH-1x04-P2.00mm_Horizontal        8.9200    38.7500  270.0000  top
+L1        Ferrite_Bead         R_0603                                 54.9300    25.4200  270.0000  top
+R1        8k2                  R_0603                                 22.2000    21.4600   90.0000  top
+R2        1k                   R_0603                                 37.4100    41.0200  270.0000  top
+R3        1k                   R_0603                                 39.1000    41.0300  270.0000  top
+R4        5k6                  R_0603                                 56.7400    25.4200  270.0000  top
+R5        5k6                  R_0603                                 22.2000    15.8600   90.0000  top
+R6        5k6                  R_0603                                 22.2000    18.5900  270.0000  top
+R9        0R                   R_0603_ANTENNA                         58.5200    17.4300  180.0000  top
+U1        SN74LV1T34           SOT-23-5                               23.1900    25.6200  270.0000  top
+U2        RC1701xx-MBUS        RC1701xx-MBUS                          39.9400    19.9700    0.0000  top
+U3        MCP9701              SOT-23-3                               56.1400    33.2700    0.0000  top
+U4        SN74LV1T34           SOT-23-5                               59.7700    25.8100  180.0000  top
+## End

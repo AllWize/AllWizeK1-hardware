@@ -1,0 +1,9 @@
+(module TEST_POINT_1MM (layer F.Cu) (tedit 5465C69D)
+  (fp_text reference TEST_POINT_1MM (at 0 -2.794) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value VAL** (at 0 -5.207) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd circle (at 0 0) (size 1 1) (layers F.Cu F.Mask))
+)
