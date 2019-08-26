@@ -1,0 +1,291 @@
+Cmp-Mod V01 Created by PcbNew   date = Wed 27 Jun 2018 09:52:27 AM CEST
+
+BeginCmp
+TimeStamp = 5AC73BA2
+Path = /5AC72E4D
+Reference = R6;
+ValeurCmp = 5k6;
+IdModule  = WIZE-SHIELD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ABA0CCD
+Path = /59D7F9EF
+Reference = D1;
+ValeurCmp = LED-DIODE;
+IdModule  = WIZE-SHIELD:LED_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ABA0CDC
+Path = /5AB4E4DB
+Reference = D2;
+ValeurCmp = LED-DIODE;
+IdModule  = WIZE-SHIELD:LED_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ABA0CE1
+Path = /54C772D3
+Reference = FD1;
+ValeurCmp = FIDUCIAL;
+IdModule  = WIZE-SHIELD:FIDUCIAL-08;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ABA0CE6
+Path = /59D8D101
+Reference = FD2;
+ValeurCmp = FIDUCIAL;
+IdModule  = WIZE-SHIELD:FIDUCIAL-08;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ABA0D23
+Path = /5AB4A92F
+Reference = J3;
+ValeurCmp = Conn_02x05_Odd_Even;
+IdModule  = WIZE-SHIELD:PinHeader_2x05_P1.27mm_Vertical_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ABA0D60
+Path = /5AB51A88
+Reference = L1;
+ValeurCmp = Ferrite_Bead;
+IdModule  = WIZE-SHIELD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ABA0D6C
+Path = /5AB5B3F2
+Reference = R1;
+ValeurCmp = 8k2;
+IdModule  = WIZE-SHIELD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ABA0D78
+Path = /59D75C44
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = WIZE-SHIELD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ABA0D84
+Path = /5AB4DFE2
+Reference = R3;
+ValeurCmp = 1k;
+IdModule  = WIZE-SHIELD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ABA0D90
+Path = /59C4A56D
+Reference = R4;
+ValeurCmp = 5k6;
+IdModule  = WIZE-SHIELD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ABA0DA5
+Path = /5AB5741F
+Reference = U1;
+ValeurCmp = SN74LV1T34;
+IdModule  = WIZE-SHIELD:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ABA0DB0
+Path = /5AB6291C
+Reference = U3;
+ValeurCmp = MCP9701;
+IdModule  = WIZE-SHIELD:SOT-23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ABA0DC5
+Path = /5AB5B289
+Reference = U4;
+ValeurCmp = SN74LV1T34;
+IdModule  = WIZE-SHIELD:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ABA1409
+Path = /5AB5D00E
+Reference = J5;
+ValeurCmp = Conn_Coaxial;
+IdModule  = WIZE-SHIELD:SMA_Jack;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ABA3E69
+Path = /5AB4D54C
+Reference = U2;
+ValeurCmp = RC1701xx-MBUS;
+IdModule  = WIZE-SHIELD:RC1701xx-MBUS;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ABA429A
+Path = /5AB4AA55
+Reference = J1;
+ValeurCmp = Conn_01x08;
+IdModule  = WIZE-SHIELD:PinHeader_1x08_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ABA42A4
+Path = /5AB4A80A
+Reference = J2;
+ValeurCmp = Conn_01x06;
+IdModule  = WIZE-SHIELD:PinHeader_1x06_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ABA42BE
+Path = /5AB4ACB8
+Reference = J11;
+ValeurCmp = Conn_01x08;
+IdModule  = WIZE-SHIELD:PinHeader_1x08_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AC73B5A
+Path = /5AB561A0
+Reference = J4;
+ValeurCmp = Conn_02x03_Odd_Even;
+IdModule  = WIZE-SHIELD:PinHeader_2x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AC73B6A
+Path = /5AC79964
+Reference = J13;
+ValeurCmp = Conn_01x02;
+IdModule  = WIZE-SHIELD:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AC73D5A
+Path = /5AC71C7B
+Reference = J12;
+ValeurCmp = Conn_02x03_Odd_Even;
+IdModule  = WIZE-SHIELD:PinHeader_2x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AC73D60
+Path = /5AC734A1
+Reference = R5;
+ValeurCmp = 5k6;
+IdModule  = WIZE-SHIELD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ACB1943
+Path = /5AB4A7FD
+Reference = J6;
+ValeurCmp = Conn_01x03;
+IdModule  = WIZE-SHIELD:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AC73E1A
+Path = /5AC81102
+Reference = J15;
+ValeurCmp = NPTH-HOLE;
+IdModule  = WIZE-SHIELD:HOLE_3.10MM;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AC73E1F
+Path = /5AC81108
+Reference = J16;
+ValeurCmp = NPTH-HOLE;
+IdModule  = WIZE-SHIELD:HOLE_3.10MM;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AC73E24
+Path = /5AC80AFC
+Reference = J21;
+ValeurCmp = NPTH-HOLE;
+IdModule  = WIZE-SHIELD:HOLE_3.10MM;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AC73E29
+Path = /5AC80CF4
+Reference = J22;
+ValeurCmp = NPTH-HOLE;
+IdModule  = WIZE-SHIELD:HOLE_3.10MM;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ACB3AC2
+Path = /5ACB2BBD
+Reference = G2;
+ValeurCmp = LABEL;
+IdModule  = WIZE-SHIELD:LABEL_15x5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ACB7455
+Path = /54C7751D
+Reference = G1;
+ValeurCmp = LOGO;
+IdModule  = WIZE-SHIELD:allwize-logo-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ACB775B
+Path = /5ACB7A76
+Reference = R7;
+ValeurCmp = 0R;
+IdModule  = WIZE-SHIELD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ACB7767
+Path = /5ACB9317
+Reference = R8;
+ValeurCmp = 0R;
+IdModule  = WIZE-SHIELD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ACCDC04
+Path = /5AB4B3C9
+Reference = J7;
+ValeurCmp = Conn_01x04;
+IdModule  = WIZE-SHIELD:GROVE-TH-1x04-P2.00mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ACCDC24
+Path = /5AB663E6
+Reference = J8;
+ValeurCmp = Conn_01x04;
+IdModule  = WIZE-SHIELD:GROVE-TH-1x04-P2.00mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ACCDC44
+Path = /5AB667CD
+Reference = J9;
+ValeurCmp = Conn_01x04;
+IdModule  = WIZE-SHIELD:GROVE-TH-1x04-P2.00mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ABA42B2
+Path = /5AB4AAF6
+Reference = J10;
+ValeurCmp = Conn_01x10;
+IdModule  = WIZE-SHIELD:PinHeader_1x10_P2.54mm_Vertical;
+EndCmp
+
+EndListe
